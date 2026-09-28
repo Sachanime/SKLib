@@ -9,6 +9,7 @@
     "devDependencies": {
         "typescript": "*",
         "tsx": "*",
-        "@types/node": "*"
+        "@types/node": "*",
+        "dotenv": "*"
     }
 }
