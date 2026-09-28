@@ -6,10 +6,12 @@
     "scripts": {
         "start": "tsx ./src/index.ts"
     },
+    "dependencies": {
+        "dotenv": "*"
+    },
     "devDependencies": {
         "typescript": "*",
         "tsx": "*",
-        "@types/node": "*",
-        "dotenv": "*"
+        "@types/node": "*"
     }
 }
